@@ -13,7 +13,7 @@ We Are dedicated to fighting against discrimination, judgment, and bullying. We 
 
 ### Connect with me:
 
-[<img align="left" alt="Angies Lil Hub | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Angies Lil Hub | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] (https://www.youtube.com/channel/UCmnYw7QJEngaFu84cgZP0IA)
 [<img align="left" alt="Angies Lil Hub | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="suwuangie | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Angie (ash) Jin | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -45,7 +45,6 @@ We Are dedicated to fighting against discrimination, judgment, and bullying. We 
 
 </details>
 [twitter]: https://twitter.com/suwuangie
-[youtube]: https://www.youtube.com/channel/UCmnYw7QJEngaFu84cgZP0IA
 [instagram]: https://www.instagram.com/itsuwuangie/
 [linkedin]: https://www.linkedin.com/in/angie-jin-8b7470201/
 
