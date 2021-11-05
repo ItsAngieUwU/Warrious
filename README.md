@@ -11,13 +11,6 @@ We Are dedicated to fighting against discrimination, judgment, and bullying. We 
 - 🥅 2021 Goals: Grow past my mistakes and become a better person
 - ⚡ Fun fact: I dance sometimes and I'm a chill person once you get to know me.
 
-### Connect with me:
-
-[<img align="left" alt="Angies Lil Hub | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] (https://www.youtube.com/channel/UCmnYw7QJEngaFu84cgZP0IA)
-[<img align="left" alt="Angies Lil Hub | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="suwuangie | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Angie (ash) Jin | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 <br />
 
 ### 📺 Latest YouTube Videos
@@ -42,9 +35,3 @@ We Are dedicated to fighting against discrimination, judgment, and bullying. We 
 <!-- BLOG-POST-LIST:END -->
 
 ---
-
-</details>
-[twitter]: https://twitter.com/suwuangie
-[instagram]: https://www.instagram.com/itsuwuangie/
-[linkedin]: https://www.linkedin.com/in/angie-jin-8b7470201/
-
