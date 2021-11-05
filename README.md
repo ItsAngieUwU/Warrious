@@ -4,7 +4,7 @@ We Are dedicated to fighting against discrimination, judgment, and bullying. We 
 ### Hi there, I'm Angie - aka [ItsAngieUwU] 👋
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/ItsAngieUwU?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/suwuangie)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ItsAngieUwU?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/suwuangie?s=20)
 
 ## I'm a student, youtuber, developer, writer & voice actor
 
